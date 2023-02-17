@@ -1,2 +1,0 @@
-# saswaw
-git commands
